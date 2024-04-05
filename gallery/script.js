@@ -40,6 +40,4 @@ window.onload = function() {
         xhr.send('image=' + encodeURIComponent(imageData));
     }
 };
-        // Aqui você pode adicionar código para lidar com o arquivo selecionado
-        // Por exemplo, você pode exibir a imagem em algum lugar na página
-        // Usando URL.createObjectURL(this.files[0]) para obter o URL da imagem
+        
